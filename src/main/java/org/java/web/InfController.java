@@ -21,4 +21,7 @@ public class InfController {
         return "/show";
     }
 
+    public void test(){
+        System.out.println("@@@@@@@@@@@@@@@@@@@@@@@@@@");
+    }
 }
